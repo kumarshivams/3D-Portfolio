@@ -5,7 +5,6 @@ import {
   FacebookRounded,
   Instagram,
   LinkedIn,
-  Twitter,
 } from "@mui/icons-material";
 import { SiLeetcode } from "react-icons/si";
 
